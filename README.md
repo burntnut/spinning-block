@@ -12,5 +12,5 @@ ascii spinning block in lua
 
 ------------------
 
-also this idea was taken from the spinning donut
+also this idea was taken from the spinning c donut
 
