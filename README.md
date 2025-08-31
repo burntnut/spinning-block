@@ -1,4 +1,4 @@
-# spinning-block
+# spinning block
 ascii spinning block in lua
 
 ------------------
@@ -11,6 +11,9 @@ ascii spinning block in lua
 `lua5.3 block.lua`
 
 ------------------
+## preview:
+![Preview](preview.gif)
 
+------------------
 also this idea was taken from the spinning c donut
 
