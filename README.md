@@ -12,7 +12,15 @@ ascii spinning block in lua
 
 ------------------
 ## preview:
-![Preview](preview.gif)
+block.lua:
+
+![Preview](images/preview1.gif)
+
+---------
+
+block_withfaces.lua:
+
+![Preview](images/preview2.gif)
 
 ------------------
 also this idea was inspired by the spinning c donut
